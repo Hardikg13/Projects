@@ -9,3 +9,4 @@ output =" "
 for ch in phone:
     output +=digit_mapping.get(ch, "@") + " "
 print(output)
+# try out multiple permutations,its super fun!
