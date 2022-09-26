@@ -14,6 +14,6 @@ def QRCode_Generator(text):
     img = qr.make_image(fill_colour="black", back_colour="white")
     img.save("imager.png")
 
-
+# Takes input a Url and coverts it into a QR Code!
 url = input("Enter your url: ")
 QRCode_Generator(url)
