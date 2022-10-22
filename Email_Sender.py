@@ -3,9 +3,9 @@ import ssl
 import smtplib
 
 email_sender = 'hardikespana@gmail.com'
-email_password = 'ilurvqertwfwlfck'
+email_password = 'ilurtwfwlfck'
 
-email_receiver = 'hardikgupta13.hg@gmail.com'
+email_receiver = 'hello@gmail.com'
 
 subject = "Don't Forget to Code"
 body ="""
